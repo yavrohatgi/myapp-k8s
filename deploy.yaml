@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: yavro17/dockerimg:6be8a6c
+          image: yavro17/dockerimg:eedfd41
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
